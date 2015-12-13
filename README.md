@@ -112,7 +112,8 @@ var elide = new Elide(schema, options);
     model: [], 
     model2: []
   }
-}```
+}
+```
 
 ```javascript
 elide.find('company', 1)
